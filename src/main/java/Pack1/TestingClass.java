@@ -13,6 +13,8 @@ public class TestingClass {
 		String s=driver.getTitle();
 		System.out.println(s);
 		driver.quit();
+		
+		System.out.println("added one more line");
 	}
 
 }
